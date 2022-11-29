@@ -1,4 +1,4 @@
-### <a href="https://vladimirkhvan.github.io/sneakersShop/#/">Check deployed project</a>
+### <a href="https://github.com/Turzhanov/github.io/Sneakers/#/">Check deployed project</a>
 
 # React Sneakers
 The sneakers shop with several features such as <br/>
@@ -28,7 +28,7 @@ There are four tables in Database.<br/>They are sneakers, cart, favorite, and or
 ## How to run the project
 
 1. Pull this repository to your device <br/>
-<code>git clone https://github.com/vladimirkhvan/sneakersShop.git</code>
+<code>git clone https://github.com/Turzhanov/Sneakers.git</code>
 2. Change directory to project directory <br/>
 <code>cd {project folder path}</code>
 4. Run project using npm <br/>
@@ -39,5 +39,5 @@ There are four tables in Database.<br/>They are sneakers, cart, favorite, and or
 
 ## Links
 
-Figma design: <a href="https://www.figma.com/file/P6ybzI0f4sHEydLNeuXpew/React-Sneakers-(Copy)?node-id=60%3A1286">Show Figma design</a><br/>
-Deployed project: <a href="https://vladimirkhvan.github.io/sneakersShop/#/">Show Website</a>
+Figma design: <a href="https://www.figma.com/file/u8Y6jETc5fsKOlQedixt70/Sneakers?t=K8mB21DGxGDsMhbx-6">Figma design</a><br/>
+
